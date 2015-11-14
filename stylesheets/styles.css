@@ -1,9 +1,14 @@
 h1 {
      font-size: 46px;
+     font-color: white;
      background-color: gray;
 }
 h3{
-     color:gray;
+     color:black;
      font-family: cursive;
      font-size: 18px;
+}
+body
+{
+     background-color:gray;
 }
