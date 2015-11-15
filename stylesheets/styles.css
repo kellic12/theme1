@@ -5,7 +5,7 @@ h4 {
      height: 50px;
      px;
 }
-a{
+a:link{
      color:black;
 }
 a:hoover{ 
