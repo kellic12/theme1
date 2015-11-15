@@ -5,6 +5,12 @@ h4 {
      height: 50px;
      px;
 }
+a{
+     color:black;
+}
+a:hoover{ 
+     color:#FFFAF0;
+}
 h1 {
      font-size: 46px;
      color: #FFFAF0;
