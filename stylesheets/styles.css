@@ -1,9 +1,15 @@
-h4 {
-     background-color:#282828;
-     font-size: 50px;
-     width: 1500px;
-     height: 50px;
-     px;
+#navigation{
+     display: inline;
+	padding-right: 5px;
+	padding-top:5px;
+	padding-bottom: 5px;
+	padding-left: 5px;
+	border: 2px solid #000000;
+	font-family: Futura, Tahoma, sans-serif;
+	color: #ffffff;
+	border-radius: 5px 5px;
+	background-color: #cc0323
+}
 }
 a:link{
      color:black;
