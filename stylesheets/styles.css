@@ -1,8 +1,9 @@
 .navigation{
 
 	background-color: red;
+	display:inline;
 }
-}
+
 a:link{
      color:black;
 }
