@@ -12,6 +12,7 @@ ul {
 li{
 	display:inline;
 	text-indent:7px;
+	font-size:16px;
 }
 a:link{
      color:black;
