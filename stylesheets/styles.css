@@ -1,5 +1,5 @@
 .navigation{
-	  
+	font-family:Perpetua;  
 	background-color: gray;
 	list-style-type:none;
 
@@ -23,7 +23,7 @@ h1 {
      font-size: 46px;
      color: #FFFAF0;
      background-color: black;
-     font-family:400 130px/0.8 'Cookie', Helvetica, sans-serif;
+     font-family:Perpetua;
 }
 h3{
      color:black;
