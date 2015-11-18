@@ -1,6 +1,7 @@
 .navigation{
 
-	background-color: red;
+	background-color: gray;
+	display:inline-block; 
 
 }
 
@@ -11,6 +12,7 @@ a:hoover{
      color:#FFFAF0;
 }
 h1 {
+  
      font-size: 46px;
      color: #FFFAF0;
      background-color: black;
