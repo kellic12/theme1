@@ -11,6 +11,7 @@ ul {
 	    list-style-type: none;
     margin: 0;
     padding: 0;
+    text-indent: 50%;
 }
 li{
 	display:inline;
