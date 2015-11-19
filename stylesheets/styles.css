@@ -46,15 +46,15 @@ body {
 }
 
 .content {
-  width:500px;
-  font-size:36px;
+  width:600px;
+  font-size:30px;
   line-height:40px;
   font-family:'Muli';
   color:#ecf0f1;
   height:40px;
   position:absolute;
   top:50%;
-  left:30%;
+  left:40%;
   margin-top:-15px;
   margin-left:-118px;
   
