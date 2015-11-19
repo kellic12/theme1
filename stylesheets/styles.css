@@ -139,3 +139,30 @@ body {
   85%  {margin-top:-40px;}
   100% {margin-top:0;}
 }
+{
+background: linear-gradient(220deg, #030303, #546561);
+background-size: 400% 400%;
+-webkit-animation: AnimationName 17s ease infinite;
+-moz-animation: AnimationName 17s ease infinite;
+-o-animation: AnimationName 17s ease infinite;
+animation: AnimationName 17s ease infinite;
+@-webkit-keyframes AnimationName {
+    0%{background-position:0% 96%}
+    50%{background-position:100% 5%}
+    100%{background-position:0% 96%}
+}
+@-moz-keyframes AnimationName {
+    0%{background-position:0% 96%}
+    50%{background-position:100% 5%}
+    100%{background-position:0% 96%}
+}
+@-o-keyframes AnimationName {
+    0%{background-position:0% 96%}
+    50%{background-position:100% 5%}
+    100%{background-position:0% 96%}
+}
+@keyframes AnimationName {
+    0%{background-position:0% 96%}
+    50%{background-position:100% 5%}
+    100%{background-position:0% 96%}
+}
